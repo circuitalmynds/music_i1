@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1048.2137000000002,
+    "videos": [
         "Los Cadetes de Linares - La Entalladita-5bewuwygaMY.mp4",
         "I'm Gonna Sit Right Down And Write Myself A Letter ~ Don Cherry (1956)-iUzOP2J80xQ.mp4",
         "Chuy Vega- Olvidemonos 2012-HLDTCJ1r6QU.mp4",
@@ -128,7 +129,5 @@
         "In Flames - The Quiet Place (Official Video)-2d1pRlRxkJw.mp4",
         "Porsupuestón-s6UMqsT1T5U.mp4",
         "Los Hermanos Vega El Refran (1994)-FGIcxdoY_9o.mp4"
-    ],
-    "id": "i1",
-    "total_size": 999.6536943359378
+    ]
 }
