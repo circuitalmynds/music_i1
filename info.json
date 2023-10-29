@@ -1,5 +1,5 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
         {
             "id": "X8Unzo80ohY",
@@ -100,11 +100,11 @@
             "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/Insensible (Remasterizado 2012)-2mKJDS1Q8fc.mp4?raw=true"
         },
         {
-            "id": "_JZom_gVfuw",
-            "name": "The Notorious B.I.G. - Juicy (Official Music Video)-_JZom_gVfuw.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/i1/videos/The Notorious B.I.G. - Juicy (Official Music Video)-_JZom_gVfuw.mp4",
-            "size": 22.045002999999998,
-            "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/The Notorious B.I.G. - Juicy (Official Music Video)-_JZom_gVfuw.mp4?raw=true"
+            "id": "ICjyAe9S54c",
+            "name": "Moby - Extreme Ways [ICjyAe9S54c].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/i1/videos/Moby - Extreme Ways [ICjyAe9S54c].mp4",
+            "size": 14.395078999999999,
+            "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/Moby - Extreme Ways [ICjyAe9S54c].mp4?raw=true"
         },
         {
             "id": "HETMNaBhzpg",
@@ -147,13 +147,6 @@
             "path": "/home/alanmatzumiya/Videos/container/i1/videos/It Never, Just Might-lFg2DMhwHck.mp4",
             "size": 7.751328999999999,
             "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/It Never, Just Might-lFg2DMhwHck.mp4?raw=true"
-        },
-        {
-            "id": "re61B8sKQWk",
-            "name": "'Let 'Em In' - PaulMcCartney.com Track of the Week-re61B8sKQWk.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/i1/videos/'Let 'Em In' - PaulMcCartney.com Track of the Week-re61B8sKQWk.mp4",
-            "size": 10.526430999999999,
-            "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/'Let 'Em In' - PaulMcCartney.com Track of the Week-re61B8sKQWk.mp4?raw=true"
         },
         {
             "id": "QyMshtdjVqI",
@@ -380,20 +373,6 @@
             "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/Crass - Rival Tribal Revel Rebel (Pt. 2) (1982)-IhY3HFz7Gt0.mp4?raw=true"
         },
         {
-            "id": "oPlNAzJT61c",
-            "name": "Los Cadetes de Linares - Anorando Tus Besos-oPlNAzJT61c.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/i1/videos/Los Cadetes de Linares - Anorando Tus Besos-oPlNAzJT61c.mp4",
-            "size": 4.357025,
-            "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/Los Cadetes de Linares - Anorando Tus Besos-oPlNAzJT61c.mp4?raw=true"
-        },
-        {
-            "id": "2d1pRlRxkJw",
-            "name": "In Flames - The Quiet Place (Official Video)-2d1pRlRxkJw.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/i1/videos/In Flames - The Quiet Place (Official Video)-2d1pRlRxkJw.mp4",
-            "size": 11.214217,
-            "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/In Flames - The Quiet Place (Official Video)-2d1pRlRxkJw.mp4?raw=true"
-        },
-        {
             "id": "sTMgX1PDGAE",
             "name": "It Wasn't Me-sTMgX1PDGAE.mp4",
             "path": "/home/alanmatzumiya/Videos/container/i1/videos/It Wasn't Me-sTMgX1PDGAE.mp4",
@@ -422,13 +401,6 @@
             "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/IDLES - Model Village (Live on KEXP)-tE-JbxbZHTY.mp4?raw=true"
         },
         {
-            "id": "ICjyAe9S54c",
-            "name": "Moby - Extreme Ways-ICjyAe9S54c.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/i1/videos/Moby - Extreme Ways-ICjyAe9S54c.mp4",
-            "size": 17.62751,
-            "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/Moby - Extreme Ways-ICjyAe9S54c.mp4?raw=true"
-        },
-        {
             "id": "mjSd0lTfRMc",
             "name": "LOS HERMANOS VEGA - CORAZON DE OROPEL.wmv-mjSd0lTfRMc.mp4",
             "path": "/home/alanmatzumiya/Videos/container/i1/videos/LOS HERMANOS VEGA - CORAZON DE OROPEL.wmv-mjSd0lTfRMc.mp4",
@@ -441,13 +413,6 @@
             "path": "/home/alanmatzumiya/Videos/container/i1/videos/I Like To Recognize The Tune-DzNjf2C2LQM.mp4",
             "size": 4.687259,
             "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/I Like To Recognize The Tune-DzNjf2C2LQM.mp4?raw=true"
-        },
-        {
-            "id": "2mKJDS1Q8fc",
-            "name": "Insensible-2mKJDS1Q8fc.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/i1/videos/Insensible-2mKJDS1Q8fc.mp4",
-            "size": 3.5516729999999996,
-            "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/Insensible-2mKJDS1Q8fc.mp4?raw=true"
         },
         {
             "id": "k_v1NfOmnvM",
@@ -527,13 +492,6 @@
             "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/It's All Over ~ Otis Williams & His Charms (1956)-UcvGTS2DWTk.mp4?raw=true"
         },
         {
-            "id": "NNo26Ut7lKs",
-            "name": "La Entalladita - Los Cadetes de Linares-NNo26Ut7lKs.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/i1/videos/La Entalladita - Los Cadetes de Linares-NNo26Ut7lKs.mp4",
-            "size": 5.518611,
-            "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/La Entalladita - Los Cadetes de Linares-NNo26Ut7lKs.mp4?raw=true"
-        },
-        {
             "id": "3wi40_KeBUA",
             "name": "Instancias Los Vigilantes - Control Machete-3wi40_KeBUA.mp4",
             "path": "/home/alanmatzumiya/Videos/container/i1/videos/Instancias Los Vigilantes - Control Machete-3wi40_KeBUA.mp4",
@@ -583,25 +541,11 @@
             "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/Transplants - Hit The Fence-YTuzXy4Lhos.mp4?raw=true"
         },
         {
-            "id": "_ao2u7F_Qzg",
-            "name": "The Rasmus - In The Shadows (US Version)-_ao2u7F_Qzg.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/i1/videos/The Rasmus - In The Shadows (US Version)-_ao2u7F_Qzg.mp4",
-            "size": 20.040584,
-            "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/The Rasmus - In The Shadows (US Version)-_ao2u7F_Qzg.mp4?raw=true"
-        },
-        {
             "id": "F7wit8_8SqA",
             "name": "I Still Haven't Found What I'm Looking For-F7wit8_8SqA.mp4",
             "path": "/home/alanmatzumiya/Videos/container/i1/videos/I Still Haven't Found What I'm Looking For-F7wit8_8SqA.mp4",
             "size": 7.969621999999999,
             "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/I Still Haven't Found What I'm Looking For-F7wit8_8SqA.mp4?raw=true"
-        },
-        {
-            "id": "sLm3Khusq_8",
-            "name": "INXS - Dont Change-sLm3Khusq_8.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/i1/videos/INXS - Dont Change-sLm3Khusq_8.mp4",
-            "size": 20.461305,
-            "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/INXS - Dont Change-sLm3Khusq_8.mp4?raw=true"
         },
         {
             "id": "WY63nEyzVRY",
@@ -665,13 +609,6 @@
             "path": "/home/alanmatzumiya/Videos/container/i1/videos/I Promise To Remember  ~ Frankie Lymon & The Teenagers (1956)(78 rpm)-6MbKEq13LzY.mp4",
             "size": 6.440043999999999,
             "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/I Promise To Remember  ~ Frankie Lymon & The Teenagers (1956)(78 rpm)-6MbKEq13LzY.mp4?raw=true"
-        },
-        {
-            "id": "Q7yfsNFoUvk",
-            "name": "Juan Diego Flórez⭐♫'Cucurrucucú Paloma'_by Tomás Méndez-Q7yfsNFoUvk.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/i1/videos/Juan Diego Flórez⭐♫'Cucurrucucú Paloma'_by Tomás Méndez-Q7yfsNFoUvk.mp4",
-            "size": 20.552594,
-            "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/Juan Diego Flórez⭐♫'Cucurrucucú Paloma'_by Tomás Méndez-Q7yfsNFoUvk.mp4?raw=true"
         },
         {
             "id": "oPlNAzJT61c",
@@ -784,13 +721,6 @@
             "path": "/home/alanmatzumiya/Videos/container/i1/videos/CHUCK BERRY &  KEITH RICHARDS - Nadine-5madtiLf7DI.mp4",
             "size": 10.256974999999999,
             "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/CHUCK BERRY &  KEITH RICHARDS - Nadine-5madtiLf7DI.mp4?raw=true"
-        },
-        {
-            "id": "Nve4gnSD3mk",
-            "name": "Artifical Red-Nve4gnSD3mk.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/i1/videos/Artifical Red-Nve4gnSD3mk.mp4",
-            "size": 10.226592,
-            "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/Artifical Red-Nve4gnSD3mk.mp4?raw=true"
         },
         {
             "id": "d6QGxEEp-_8",
@@ -926,5 +856,5 @@
             "url": "https://github.com/circuitalmynds/music_i1/blob/main/videos/Piero - Ahora es el Otoño [Canción Oficial] ®-70dqI0Mw34Q.mp4?raw=true"
         }
     ],
-    "total_size": 1049.6193620000001
+    "total_size": 917.8928960000001
 }
